@@ -10,7 +10,5 @@
 - `webpack`: Latest version of webpack build tool
 /br
 /hr
-<code>
-npm install crypto-browserify stream-browserify assert https-browserify os-browserify webpack@latest --save-dev
-</code>
+<code> npm install crypto-browserify stream-browserify assert https-browserify os-browserify webpack@latest --save-dev <copy></code>
 </html>
